@@ -1,6 +1,6 @@
 # Conway's Game of Life - Terminal Edition
 
-![Game of Life in Action](assets/game_of_life.gif)
+![Game of Life in Action](assets/game-of-life.gif)
 
 This is a terminal implementation of Conway's Game of Life written in C. The game evolves based on simple rules, creating mesmerizing patterns and behaviors.
 
