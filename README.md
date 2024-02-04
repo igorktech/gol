@@ -30,3 +30,14 @@ This is a terminal implementation of Conway's Game of Life written in C. The gam
     ```bash
     ./gol
     ```
+
+### Optional flags:
+
+-   -w <width>: Set the width of the grid.
+-   -h <height>: Set the height of the grid.
+
+Example with custom width and height:
+
+```bash
+    ./gol -w 50 -h 50
+```
